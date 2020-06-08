@@ -1,0 +1,55 @@
+.title {
+  font-size: 1.2rem;
+}
+
+.title:hover {
+  color: white;
+}
+
+.app {
+  color: #3ea8f0;
+}
+
+.get {
+  color: #e0b719;
+}
+
+.dotis {
+  color: #c45c2f;
+}
+
+.topnav {
+  background-color: #162447;
+  overflow: hidden;
+  font-family: "DM Mono", monospace;
+  /* padding: 20px 10px; */
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+
+.navItems {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.pagelinks a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #e43f5a;
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
