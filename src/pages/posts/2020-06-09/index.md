@@ -1,12 +1,12 @@
 ---
 path: "/second"
-date: "2020-06-06"
-title: "Second Post"
+date: "2020-06-09"
+title: "The Next Post"
 author: "Daniel Otis"
-description: "The second sample post."
+description: "The next sample post."
 ---
 
-![Logo](./code2.png)  
+![Logo](./code2.png)
 
 ## Heading 1
 
